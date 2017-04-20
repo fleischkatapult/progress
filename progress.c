@@ -59,6 +59,7 @@ char *proc_names[] = {"cp", "mv", "dd", "tar", "cat", "rsync",
     "zcat", "bzcat", "lzcat",
     "split",
     "gpg",
+    "borg",
     NULL
 };
 
